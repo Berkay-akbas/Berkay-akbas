@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/berkay-akbas-a03b3b239/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/berkay-akbas-a03b3b239/#gh-dark-mode-only)
+[![portfolio(./img/portfo.svg)](https://www.linkedin.com/in/berkay-akbas-a03b3b239/#gh-light-mode-only)
+[![Portfolio](./img/portfo.svg)](https://www.linkedin.com/in/berkay-akbas-a03b3b239/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
