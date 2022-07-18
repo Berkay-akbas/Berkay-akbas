@@ -6,7 +6,8 @@
 
 ### Connect with me:
 
-[portfolio](https://www.linkedin.com/in/berkay-akbas-a03b3b239/)
+[My LinkedIn](https://www.linkedin.com/in/berkay-akbas-a03b3b239/)
+[My Portfolio Page](https://berkay-akbas.github.io/Portfolio-Page/)
 
 &nbsp;&nbsp;
 
