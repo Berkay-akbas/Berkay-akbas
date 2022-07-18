@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[![portfolio](https://www.linkedin.com/in/berkay-akbas-a03b3b239/#gh-light-mode-only)
-[![Portfolio](https://www.linkedin.com/in/berkay-akbas-a03b3b239/#gh-dark-mode-only)
+[portfolio](https://www.linkedin.com/in/berkay-akbas-a03b3b239/)
+
 &nbsp;&nbsp;
 
 ### Languages and Tools:
