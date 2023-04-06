@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, Ruby, Ruby on Rails, React**
 
-- 👨‍💻 All of my projects are available at [https://berkay-akbas.github.io/Portfolio-Page/](https://berkay-akbas.github.io/Portfolio-Page/)
+- 👨‍💻 All of my projects are available at [https://berkay-akbas.github.io/Portfolio/](https://berkay-akbas.github.io/Portfolio-Page/)
 
 - 📫 How to reach me **berkayakbas@gmail.com**
 
